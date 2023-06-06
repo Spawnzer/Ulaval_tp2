@@ -1,0 +1,51 @@
+﻿
+Prénom et Nom :
+Numéro de dossier (NI):
+Temps de réalisation : 
+
+
+Fonctionnalités
+---------------
+
+chercher_chaine_saisie.
+/1 :	Validation de la longueur de la chaine 1 et chaine 2
+/1 :	Validation longueur chaine 2 < à longueur chaine 1
+/4 :	Traitement respecte le cahier des charges pour le résultat
+
+	Commentaires :
+
+chercher_chaine_fichier
+/2 :	Utilisation de module
+/3 :	opération sur fichier (open, write, close)
+/2 :	réutilisation du code de fonction de l'exercice 1
+	Commentaires :
+
+
+afficher_motif_liste
+/2 :	Le programme affiche le menu, demande le choix, bonne utilisation de boucle 
+/2 :	validation de la dimension: impaire et (entre 5 et 39)
+Le traitement de ce qui suit doit être fait en utilisant une liste, la dimension doit être demandée à l'utilisateur
+/1: 	Le nombre de ligne et colonne pour chaque motif doit être égal à la dimension (attension au motif coin) 
+/3 :	Le programme respecte les consignes de l'option F
+/3 :	Le programme respecte les consignes de l'option L
+/3 :	Le programme respecte les consignes de l'option C
+/3 :	Le programme respecte les consignes de l'option X
+
+
+
+	Commentaires :
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total:   /30
+
